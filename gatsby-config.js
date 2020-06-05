@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `MA RO DA Store`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@maroda`,
+    title: `MARODA Store`,
+    description: `MARODA Store`,
+    author: `@maroda.store`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
